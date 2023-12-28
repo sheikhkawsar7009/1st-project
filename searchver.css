@@ -1,0 +1,44 @@
+body{
+ margin: 0%;
+ padding: 0%;background-color: blanchedalmond;
+    
+}
+.minbody{
+    background-color: rgb(160, 150, 150);
+    width: 100%;
+    height: 120px;
+    justify-content: flex;
+}
+.navebar{
+  text-align: right;
+  height: 20px;
+}
+h1{
+   
+}
+
+
+/* .minbody{width: 100%;
+    height: 80px;
+    background-color: rgb(79, 146, 146);
+    float:right;
+    display: flex;
+     justify-content: right; */
+/* }
+.navebar{
+    /* float: right; */
+    /* justify-content: right;
+    margin-top: 25px;
+    margin-left: 100%; */
+
+/* /* }
+*/.minbody h1{ */
+    /* text-align:center ;
+    background-color: red;
+} */ */
+/* 
+input{
+    height: 20px;
+    float: right;
+    border: 2 solid gold;
+}  */ */
